@@ -3,20 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/ic_baseline_image_24.xml" value="0.107" />
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/ic_launcher_background.xml" value="0.107" />
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_edittext01.xml" value="0.1125" />
         <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_left_panel.xml" value="0.1945" />
         <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_login_button.xml" value="0.139" />
         <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_login_panel.xml" value="0.1505" />
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_right_panel.xml" value="0.1125" />
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_tollbar02.xml" value="0.1125" />
+        <entry key="..\:/EasyTap/app/src/main/res/drawable/shape_toolbar01.xml" value="0.1125" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_customer_profile.xml" value="0.1" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.1" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_dashboard_user.xml" value="0.1" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/EasyTap/app/src/main/res/layout/activity_login_register.xml" value="0.16" />
         <entry key="..\:/EasyTap/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_register.xml" value="0.17" />
+        <entry key="..\:/EasyTap/app/src/main/res/layout/activity_share_image_text.xml" value="0.15" />
         <entry key="..\:/EasyTap/app/src/main/res/layout/activity_splash_screen.xml" value="0.209375" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/drawable/shape_edittext01.xml" value="0.10400000000000001" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/drawable/shape_tollbar02.xml" value="0.1615" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/drawable/shape_toolbar01.xml" value="0.121" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/layout/activity_customer_profile.xml" value="0.11860940695296524" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/layout/activity_login_register.xml" value="0.18" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/layout/activity_main.xml" value="0.11860940695296524" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/layout/activity_splash_screen.xml" value="0.11860940695296524" />
-        <entry key="..\:/Users/ASHAN/AndroidStudioProjects/Easy-Tap-Android-Project/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/EasyTap/app/src/main/res/xml/files_paths.xml" value="0.13958333333333334" />
       </map>
     </option>
   </component>
@@ -29,7 +34,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.11860940695296524" />
+        <option name="scale" value="0.15" />
       </ProjectState>
     </option>
   </component>
