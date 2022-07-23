@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879925911820",
+    "project_id": "easytap-d0b4e",
+    "storage_bucket": "easytap-d0b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.example.easytap"
+        },
+        "mobilesdk_app_id": "1:879925911820:android:9515cfba1fa84d0b62e929"
+      },
+      "oauth_client": [
+        {
+          "client_id": "879925911820-o5rtedlu6p0e5tqhq4n29rk5urn8dvhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPdzgCLf4o3tG4D4YpXDVmmcA8OyvkWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879925911820-o5rtedlu6p0e5tqhq4n29rk5urn8dvhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
