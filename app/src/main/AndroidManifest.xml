@@ -18,15 +18,11 @@
         <activity
             android:name=".LoginActivity"
             android:exported="false" />
-        <activity
-            android:name=".RegisterActivity"
-            android:exported="false" />
+
         <activity
             android:name=".customerProfile"
             android:exported="false" />
-        <activity
-            android:name=".Login_Register"
-            android:exported="false" />
+
         <activity
             android:name=".Splash_Screen"
             android:exported="true">
