@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EasyTap">
         <activity
+            android:name=".customerProfile"
+            android:exported="false" />
+        <activity
             android:name=".Login_Register"
             android:exported="false" />
         <activity
